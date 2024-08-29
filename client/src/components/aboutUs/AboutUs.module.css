@@ -139,6 +139,10 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    .whoAreThey {
+        font-size: 25px;
+    }
+
     .form5 {
         position: absolute;
         left: 0;
@@ -147,18 +151,18 @@ body {
     }
 
     .form5 img {
-        width: 230px;
+        width: 210px;
     }
 
     .form6 {
         position: absolute;
         right: 0;
-        top: 310px;
+        top: 260px;
         z-index: -1;
     }
 
     .form6 img {
-        width: 250px;
+        width: 215px;
     }
 
     .form7 {
