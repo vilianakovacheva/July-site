@@ -153,7 +153,7 @@ body {
     .form6 {
         position: absolute;
         right: 0;
-        top: 230px;
+        top: 310px;
         z-index: -1;
     }
 
@@ -164,7 +164,7 @@ body {
     .form7 {
         position: absolute;
         left: 0;
-        top: 1400px;
+        top: 1470px;
         z-index: -1;
     }
 
@@ -175,7 +175,7 @@ body {
     .form8 {
         position: absolute;
         right: 0;
-        top: 2450px;
+        top: 2560px;
         z-index: -1;
     }
 
@@ -186,7 +186,7 @@ body {
     .form9 {
         position: absolute;
         left: 0;
-        top: 3630px;
+        top: 3695px;
         z-index: -1;
     }
 
